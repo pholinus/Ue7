@@ -9,10 +9,10 @@
 
 ## Tabelle
 
-| eine            | Tabelle |
-| ---------------:|--------:|
-| **fett**        | 1       |
-| _fett kursiv_** | 2       |
+| eine              | Tabelle |
+| -----------------:|--------:|
+| **fett**          | 1       |
+| **_fett kursiv_** | 2       |
 
 
 
